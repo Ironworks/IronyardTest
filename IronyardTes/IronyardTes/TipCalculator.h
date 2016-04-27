@@ -9,5 +9,5 @@
 #import <Foundation/Foundation.h>
 
 @interface TipCalculator : NSObject
-
+@property (copy, nonatomic) NSString *myString;
 @end

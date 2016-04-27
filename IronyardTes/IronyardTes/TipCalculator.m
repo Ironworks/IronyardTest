@@ -9,5 +9,5 @@
 #import "TipCalculator.h"
 
 @implementation TipCalculator
-@property (copy, nonatomic) NSString *myString;
+
 @end
